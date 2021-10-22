@@ -1,0 +1,89 @@
+[
+  {
+    "name": "Programs",
+    "extensions": [
+      ".exe",
+      ".EXE",
+      ".pkg",
+      ".dmg",
+      ".jar",
+      ".dll",
+      ".plgx",
+      ".reg",
+      ".sql",
+      ".xpi",
+      ".xml",
+      ".json",
+      ".cab",
+      ".msi"
+    ]
+  },
+  {
+    "name": "Compressed",
+    "extensions": [
+      ".zip",
+      ".7z",
+      ".rar",
+      ".tar",
+      ".part",
+      ".gz",
+      ".ics",
+      ".torrent",
+      ".iso"
+    ]
+  },
+  {
+    "name": "Documents",
+    "extensions": [
+      ".doc",
+      ".docx",
+      ".txt",
+      ".config",
+      ".pdf",
+      ".csv",
+      ".xls",
+      ".ppt",
+      ".xlsx",
+      ".dlt",
+      ".gpx",
+      ".pptx"
+    ]
+  },
+  {
+    "name": "Music",
+    "extensions": [
+      ".mp3",
+      ".wav"
+    ]
+  },
+  {
+    "name": "Videos",
+    "extensions": [
+      ".mp4",
+      ".mkv"
+    ]
+  },
+  {
+    "name": "Books",
+    "extensions": [
+      ".epub"
+    ]
+  },
+  {
+    "name": "Pictures",
+    "extensions": [
+      ".jpg",
+      ".jpeg",
+      ".png",
+      ".svg",
+      ".gif",
+      ".tif",
+      ".tiff"
+    ]
+  },
+  {
+    "name": "Folders",
+    "extensions": [
+    ]
+  }
+]
